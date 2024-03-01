@@ -1,0 +1,114 @@
+.modal-header {
+    background-image: url(../../assest/a3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom: none;
+    padding: 15px 15px 160px 5px;
+}
+.modal-content{
+    border-radius: 30px;
+    background-color: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(15px);
+    
+}
+.main-content{
+    padding: 0px 10px 8px 8px;
+}
+.modal-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .modal-text1{
+        font-size: 22px;
+        color: white;
+    }
+    .modal-text2{
+        font-size: 14px;
+        color: white;
+        text-align: center;
+    }
+}
+
+.modal-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+    gap: 22px;
+}
+
+.email-input{
+    width: 319px;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    padding: 0px 20px ;
+}
+.email{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 14px;
+    outline: none;
+    width: 100%;
+}
+.email::placeholder {
+    color: white;
+    font-size: 14px;
+}
+.download-btn{
+    width: 319px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(180deg, #2d12d4, #713ae2);
+    border-radius: 50px;
+}
+.success-message{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.success-text{
+    color: white;
+    font-size: 14px;
+    margin: 0px;
+}
+.btnD{
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 14px;
+}
+
+.material-symbols-sharp{
+    color: white;
+}
+
+
+@media screen and (min-width:768px) and (max-width: 1203px){
+   
+    .main-content{
+        padding: 0px 0px 8px 3px;
+    }
+}
+
+@media screen and (max-width: 440px) {
+    .modal-content{
+        margin-left: 0px;
+    }
+
+    .main-content{
+        padding: 0px 0px 8px 18px;
+    }
+    
+    .email{
+        padding: 15px 12px 15px 12px;
+    }
+    
+}

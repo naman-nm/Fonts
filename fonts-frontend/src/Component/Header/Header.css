@@ -1,0 +1,659 @@
+.header_btn{
+  color: #fff;
+  border-radius: 50px;
+  background: linear-gradient(90deg, #0877FE 0%, #35DFF7 100%);
+  font-size: 18px;
+  padding: 10px 30px 10px 30px;
+  border: transparent;
+}
+
+.header_btn:hover{
+  
+  background: linear-gradient(90deg, #ffa369 0%, #ff436b 100%);
+  
+}
+
+.main-header{
+  padding: 0px 0px 120px 0px;
+}
+
+.element {
+  padding-top: 10px;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+.navbar-toggler{
+  padding: 10px 0px 10px 0px;
+}
+.navbar {
+  gap: 240px;
+  width: 100%;
+}
+.navbar-nav {
+  gap: 20px;
+}
+.C{
+  align-items: center;
+}
+.white {
+  color: white;
+}
+.navbar-collapse {
+  justify-content:space-between;
+}
+.nav-link{
+  color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.nav-item-link {
+  position: relative;
+  padding-bottom: 10px;
+  border-bottom: 2px solid transparent; /* Space for the white line */
+  
+}
+
+.nav-item-link:hover {
+  border-bottom: 2px solid white;
+  
+}
+
+.nav-link:hover {
+   color: #fff; 
+}
+.top-heading-1{
+  display: flex;
+  margin-top: 120px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+/* Define a keyframes animation called 'seesaw' */
+@keyframes seesaw {
+  0%, 100% {
+    transform: rotate(2deg);
+  }
+  50% {
+    transform: rotate(-2deg);
+  }
+}
+
+/* Apply the animation to the .heading-1 box */
+.heading-1 {
+  margin-left: 5px;
+  position: relative;
+  padding: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* Create a pseudo-element to serve as the animated background */
+.heading-1::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #2d12d4, #713ae2);
+  border-radius: 8px;
+  animation: seesaw 1.5s infinite; /* Apply the 'seesaw' animation  */
+  z-index: -1;
+}
+
+.top-heading-2{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 50px 0 0px 0;
+}
+
+.star-image{
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 100px;
+  animation: zoomInOut 1s alternate infinite;
+  height: 55px;
+}
+
+@keyframes zoomInOut {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.03);
+  }
+}
+
+.main-animation {
+  width: 1013px;
+  height: 276px;
+  background-color: rgba(34, 34, 34, 0.5);
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  background-image: url(../../assest/Mask\ Group\ 3.png), url(../../assest/animation\ bg.png),url(../../assest/3.png);
+  background-repeat: no-repeat, no-repeat , no-repeat;
+  background-position: left center, 418px center ,right center;
+  animation: zoomOut 1.3s infinite alternate;
+}
+
+@keyframes zoomOut {
+  0% {
+    background-size: auto, auto, 24%; /* Adjust 'cover' based on your needs */
+  }
+  100% {
+    background-size: auto, auto, 30%; /* Adjust the zoom level as needed */
+  }
+}
+
+
+.text-animation{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  color: #FFF;
+  background-image: url(../../assest/Right-1.png), url(../../assest/left.png);
+  background-repeat: no-repeat , no-repeat;
+  background-position: 300px bottom , 550px top;
+  animation: slideRightToLeft 3.6s linear infinite;
+
+  .font1{
+    width: 224px;
+    height: 230px;
+    font-family: "Berlin Sans FB";
+    font-size: 184px;
+    font-weight: 400;
+    line-height: 234px;
+    background-image: url(../../assest/Selection.png);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+  }
+  .font2{
+    font-family: "Berlin Sans FB";
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 109px;
+  }
+  .font3{
+    font-family: "Berlin Sans FB";
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 131px;
+    -webkit-text-stroke: 2px black;
+    -webkit-text-stroke: 2px black; 
+    color: transparent;
+    background-image: url(../../assest/Rectangle\ i.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    animation: moveBackground 3.8s  infinite,changeStrokeColor 7.2s infinite;
+  }
+  .font4{
+    font-family: "Berlin Sans FB";
+    font-size: 200px;
+    font-weight: 400;
+    line-height: 219px;
+  }
+  .font5{
+    font-family: "Berlin Sans FB";
+    width: 150px;
+    height: 150px;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 150px;
+    background-image: url(../../assest/a1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .font6{
+    font-family: "Berlin Sans FB";
+    font-size: 120px;
+    width: 60px;
+    font-weight: 400;
+    line-height: 131px;
+    background-image: url(../../assest/a2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: scaleAnimation 2s infinite;
+  }
+  .font7{
+    font-family: "Berlin Sans FB";
+    font-size: 200px;
+    font-weight: 400;
+    line-height: 219px;
+  }
+  .font7 h3{
+    font-family: "Berlin Sans FB";
+    font-size: 200px;
+    font-weight: 400;
+    line-height: 219px;
+    position: absolute;
+    transform: translate(0%,-100%);
+  }
+  .font7 h3:nth-child(1){
+    color: transparent;
+  }
+  .font7 h3:nth-child(2){
+    color: #D70CB6;
+    animation: animate 4.5s ease-in-out infinite;
+  }
+  
+}
+@keyframes changeStrokeColor {
+  0%, 25%, 75%, 100% {
+      -webkit-text-stroke-color: black; 
+  }
+  25%,50%, 75% {
+      -webkit-text-stroke-color: white; 
+  }
+  50% {
+      -webkit-text-stroke-color: black; 
+  }
+}
+@keyframes moveBackground {
+  0% {
+    background-position: -100%; 
+  }
+  20% {
+    background-position: 0; 
+  }
+ 50% {
+    background-position: 100%; 
+ }
+  75% {
+    background-position: 100%; 
+ }
+ 100% {
+    background-position: 200%; 
+ }
+}
+
+
+@keyframes animate {
+
+  0%{
+    clip-path: circle(0% at 50% 90%);
+  }
+
+  20% {
+    clip-path: circle(20% at 50% 80%);
+  }
+
+  35% {
+    clip-path: circle(40% at 50% 65%);
+  }
+
+  50%  {
+    clip-path: circle(50% at 50% 50%);
+  }
+}
+
+@keyframes slideRightToLeft {
+  0% {
+    background-position: 310px bottom , 690px top;
+  }
+  100% {
+    background-position: 350px bottom , 650px top;
+  }
+  
+}
+
+@keyframes scaleAnimation {
+  0% {
+      background-size: 90% auto;
+  }
+  50% {
+      background-size: 100% auto; 
+  }
+  100% {
+      background-size: 90% auto;
+  }
+}
+
+@keyframes showUpDown {
+  0% {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+ 
+  50% {
+    transform: translateY(1px);
+    opacity: 1;
+  }
+  75% {
+    transform: translateY(1px);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-90px);
+    opacity: 0;
+  }
+}
+
+.D1 .animate-char {
+  animation: showUpDown 1.5s linear infinite; 
+  animation-delay:1s;
+}
+
+.D2 .animate-char {
+  animation: showUpDown 1.5s linear infinite;
+  animation-delay:1s; 
+}
+
+.D3 .animate-char {
+  animation: showUpDown 1.5s linear infinite;
+  animation-delay:1s;
+}
+
+.D4 .animate-char {
+  animation: showUpDown 1.5s linear infinite;
+  animation-delay:1s;
+}
+
+@keyframes colorChange {
+  0% {
+    color:  rgba(255, 255, 255, 1);
+  }
+  25% {
+    color: rgba(182, 240, 156, 1);
+  }
+  50% {
+    color: rgba(215, 12, 182, 1);
+  }
+  100% {
+    color: rgba(32, 175, 255, 1);
+  }
+}
+
+.font5 .animate-color-change {
+  animation: colorChange 4s linear infinite;
+}
+
+
+
+@media screen and (max-width: 440px) {
+
+  .header_btn{
+      font-size: 18px;
+      padding: 8px 10px 8px 10px;
+      
+  }
+  .main-header{
+    padding: 0px 0px 50px 0px;
+  }
+  .top-heading-1 {
+     font-size: 14px;
+     margin-top: 55px;
+  }
+  .top-heading-2 {
+      font-size: 14px;
+      margin: 18px 0 0px 0;
+  }
+  
+  .main-animation {
+    width: 350px;
+    height: 138px;
+    
+  }
+  .text-animation{
+    gap: 5px;
+    background-image: url(../../assest/Right-2.png), url(../../assest/left-1.png);
+    background-position: 150px bottom , 250px top;
+    
+    
+    .font1{
+      width: 80px;
+      height: 150px;
+      font-size: 70px;
+      line-height: 150px;
+      background-image: url(../../assest/Selection-1.png);
+     
+    }
+    .font2{
+      
+      font-size: 50px;
+      line-height: 80px;
+    }
+    .font3{
+      font-size: 60px;
+      line-height: 90px;
+      background-image: url(../../assest/Rectangle\ i-2.png);
+      animation: moveBackground 3.8s  infinite,changeStrokeColor 7s infinite  ;
+    }
+    .font4{
+      
+      font-size: 70px;
+      
+      line-height: 150px;
+    }
+    .font5{
+      
+      width: 50px;
+      height: 90px;
+      font-size: 50px;
+      background-image: url(../../assest/a1-1.png);
+      line-height: 90px;
+      
+    }
+    .font6{
+     
+      font-size: 50px;
+      width: 30px;
+      line-height: 90px;
+     
+      
+    }
+    .font7{
+      font-size: 70px;
+      line-height: 110px;
+    }
+    .font7 h3{
+      font-size: 70px;
+      transform: translate(0%,-75%);
+    }
+    
+  }
+  @keyframes animate {
+    10% {
+      clip-path: circle(10.5% at 58% 98%);
+    }
+    
+    75%{
+      clip-path: circle(36.9% at 55% 77%);
+    }
+    100%{
+      clip-path: circle(53.6% at 50% 50%);
+    }
+  }
+  @keyframes slideRightToLeft {
+    0% {
+      background-position: 110px bottom , 250px top;
+    }
+    100% {
+      background-position: 140px bottom , 210px top;
+    } 
+  }
+  
+  .navbar {
+    gap: 10px;
+    width: 100%;
+  }
+
+  .navbar-nav {
+    gap: 10px;
+  }
+  .star-image{
+    padding-right: 0px;
+  }
+  .form-inline{
+    margin-top: 10px;
+    justify-content: center;
+  }
+  .navbar-collapse{
+    width: 104%;
+    right: -8px;
+    z-index: 1000;
+    border-top: 1px solid rgba(112, 112, 112, 0.4);
+    padding: 8px 0px 18px 0px;
+    top: 80px;
+    background-color: #101010;
+    position: absolute;
+  }
+}
+  
+
+
+
+@media screen and (min-width: 441px) and (max-width: 575px) {
+
+  
+  .top-heading-2{
+      font-size: 19px;
+  }
+  
+  .top-heading-1 {
+      font-size: 20px;
+  }
+
+  .star-image{
+    padding-right: 0px;
+  }
+  
+
+}
+
+@media screen and (min-width: 575px) and (max-width: 770px) {
+
+  .top-heading-2{
+      font-size: 22px;
+  }
+  #draftAnimationImg{
+      max-width: 500px;
+  }
+
+  .top-heading-1 {
+      font-size: 20px;
+  }
+
+  .navbar {
+    gap: 10px;
+    width: 100%;
+  }
+  .star-image{
+    padding-right: 0px;
+  }
+  
+}
+
+@media screen and (min-width:768px) and (max-width: 999px) {
+  .top-heading-1 {
+    font-size: 28px;
+  }
+ .header_btn{
+  margin-top: 20px;
+ }
+ .navbar {
+   gap: 65px;
+   width: 100%;
+  }
+  .navbar-collapse{
+    width: 110%;
+    right: -35px;
+    z-index: 1000;
+    border-top: 1px solid rgba(112, 112, 112, 0.4);
+    padding: 100px 0px 100px 0px;
+    top: 100px;
+    background-color: #101010;
+    position: absolute;
+  }
+ .main-animation {
+   width: 750px;
+   height: 250px;
+  }
+  
+ .text-animation{
+   gap: 0px;
+
+   .font1{
+     width: 244px;
+   }
+  }
+
+ .star-image{
+   padding-right: 0px;
+ }
+ .C{
+  align-items: center;
+  padding: 0px 0px 0px 35px;
+ }
+ .form-inline{
+  justify-content: center;
+ }
+ .main-animation{
+  background-position: left center, 312px center ,right center;
+ }
+ @keyframes slideRightToLeft {
+  0% {
+    background-position: 250px bottom , 500px top;
+  }
+  100% {
+    background-position: 290px bottom , 460px top;
+  } 
+ }
+}
+
+@media screen and (min-width:1000px) and (max-width: 1203px) {
+
+
+  #draftAnimationImg{
+      max-width: 800px;
+  }
+
+  .top-heading-1 {
+      font-size: 28px;
+  }
+
+  .navbar {
+    gap: 65px;
+    width: 100%;
+  }
+  
+  .main-animation {
+    width: 900px;
+    height: 250px;
+    background-position: left center, 360px center ,right center;
+  }
+  
+  .text-animation{
+    gap: 14px;
+  }
+
+  .star-image{
+    padding-right: 0px;
+  }
+}
+
+@media screen and (max-width: 1400px) and (min-width: 1203px) {
+  
+  
+  
+}
+
+

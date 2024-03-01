@@ -1,0 +1,3911 @@
+/* Apply styles on hover for elements with an id starting with 'anydore' */
+
+[id^='anydore']:hover{
+    background-image: url('../../assest/Anydore-img_bg.png'); /* Set background image on hover */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+
+    /* Apply styles to child elements with class 'main-section-row' on hover */
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='cookie']:hover{
+    background-image: url('../../assest/cookies-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='creattion_demo']:hover{
+    background-image: url('../../assest/creation-demo-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='cylburn']:hover{
+    background-image: url('../../assest/Cylburn-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='dawningofanewday']:hover{
+    background-image: url('../../assest/Dawning-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='euphoriascript']:hover{
+    background-image: url('../../assest/Euphoria-Scriptt-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='flanella']:hover{
+    background-image: url('../../assest/Flanella-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='good_vibes']:hover{
+    background-image: url('../../assest/Good-view-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='italianno']:hover{
+    background-image: url('../../assest/Italianno-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='little_days_alt']:hover{
+    background-image: url('../../assest/Little-Days-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='pacifico']:hover{
+    background-image: url('../../assest/Pacifico-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='qwigley']:hover{
+    background-image: url('../../assest/Qwigley-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sail']:hover{
+    background-image: url('../../assest/Sail-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+
+[id^='shadowhand']:hover{
+    background-image: url('../../assest/Shadow-Hand-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='skyscapers']:hover{
+    background-image: url('../../assest/Skyscapers-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+
+[id^='sophia']:hover{
+    background-image: url('../../assest/Sophia-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='relieve']:hover{
+    background-image: url('../../assest/Relieve-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='dancingscript']:hover{
+    background-image: url('../../assest/dancing-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='alex_brush']:hover{
+    background-image: url('../../assest/Alex-brush-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='allura']:hover{
+    background-image: url('../../assest/Allura-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='crunchy']:hover{
+    background-image: url('../../assest/Crunchy-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#grand_hotel:hover{
+    background-image: url('../../assest/grand-hotel-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='im_fashionista']:hover{
+    background-image: url('../../assest/I\'m-fashionista-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#kaushan_script:hover{
+    background-image: url('../../assest/Kaushan-Script-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='leaguescriptnumberone']:hover{
+    background-image: url('../../assest/League-Script-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#niconne:hover{
+    background-image: url('../../assest/Niconne-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='shink']:hover{
+    background-image: url('../../assest/Shink-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sofia']:hover{
+    background-image: url('../../assest/Sofia-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='vegan_style']:hover{
+    background-image: url('../../assest/Vegan-Style-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='windsong']:hover{
+    background-image: url('../../assest/Wind-song-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='alpha_echo']:hover{
+    background-image: url('../../assest/Alpha-Echo-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='barrio']:hover{
+    background-image: url('../../assest/Barrio-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bearpaw']:hover{
+    background-image: url('../../assest/BEARPAW-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+
+#benchnine:hover{
+    background-image: url('../../assest/BenchNine-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='blackcasper']:hover{
+    background-image: url('../../assest/Black-Casper-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='blackout']:hover{
+    background-image: url('../../assest/Blackout-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bpdots']:hover{
+    background-image: url('../../assest/BP-dots-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='dubtronic']:hover{
+    background-image: url('../../assest/Dubtronic-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='exotica']:hover{
+    background-image: url('../../assest/Exotica-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='fff_tusj']:hover{
+    background-image: url('../../assest/FFF-Tusj-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='nosifercaps']:hover{
+    background-image: url('../../assest/Nosifer-Caps-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='outward']:hover{
+    background-image: url('../../assest/outward-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='pilowlava']:hover{
+    background-image: url('../../assest/Pilowlava-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='skyscapers']:hover{
+    background-image: url('../../assest/Skyscapers-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#tightrope:hover{
+    background-image: url('../../assest/Tightrope-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='typefesse']:hover{
+    background-image: url('../../assest/Typefesse-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='yatraone']:hover{
+    background-image: url('../../assest/Typefesse-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='20db']:hover{
+    background-image: url('../../assest/20db-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#archivo_black:hover{
+    background-image: url('../../assest/Archivo-Black-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+
+#acme:hover{
+    background-image: url('../../assest/Acme-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#baloo:hover{
+    background-image: url('../../assest/Baloo-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bebas']:hover{
+    background-image: url('../../assest/20db-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='indigo']:hover{
+    background-image: url('../../assest/Indigo-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lato']:hover{
+    background-image: url('../../assest/Indigo-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='montserratalternates']:hover{
+    background-image: url('../../assest/Montserrat-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='raleway']:hover{
+    background-image: url('../../assest/Raleway-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#subjectivity:hover{
+    background-image: url('../../assest/Subjectivity-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+#playfairisplay:hover{
+    background-image: url('../../assest/PlayfairDisplay-mg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='cpmono']:hover{
+    background-image: url('../../assest/CPMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='fantasquesansmono']:hover{
+    background-image: url('../../assest/fantasque-sans-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='majormonodisplay']:hover{
+    background-image: url('../../assest/MajorMonoDisplay-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='saxmono']:hover{
+    background-image: url('../../assest/saxmono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='telegrama']:hover{
+    background-image: url('../../assest/telegrama-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='vt323']:hover{
+    background-image: url('../../assest/VT323-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='anonymousprominus']:hover{
+    background-image: url('../../assest/Anonymous_Pro-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bpmono']:hover{
+    background-image: url('../../assest/Bpmono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='cousine']:hover{
+    background-image: url('../../assest/Cousinei-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='cutivemono']:hover{
+    background-image: url('../../assest/CutiveMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='dejavusans']:hover{
+    background-image: url('../../assest/DejavuSans-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='droidsansmono']:hover{
+    background-image: url('../../assest/DroidSansMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='firamono']:hover{
+    background-image: url('../../assest/FiraMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='freemonospace']:hover{
+    background-image: url('../../assest/Free\ Monospace-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='freemonobold']:hover{
+    background-image: url('../../assest/FreeMonoBold-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='inconsolata']:hover{
+    background-image: url('../../assest/Inconsolata-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lekton']:hover{
+    background-image: url('../../assest/Lekton-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='liberationmono']:hover{
+    background-image: url('../../assest/LiberationMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='monospacetypewriter']:hover{
+    background-image: url('../../assest/Monospace-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='notcouriersans']:hover{
+    background-image: url('../../assest/NotCourierSans-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='notomono']:hover{
+    background-image: url('../../assest/NotoMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='oxygenmono']:hover{
+    background-image: url('../../assest/OxygenMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='poemonospace']:hover{
+    background-image: url('../../assest/PoeMonospace-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sourcecodepro']:hover{
+    background-image: url('../../assest/SourceCodePro-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='spacemono']:hover{
+    background-image: url('../../assest/SpaceMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='ptmono']:hover{
+    background-image: url('../../assest/PTMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='texgyrecursor']:hover{
+    background-image: url('../../assest/Texgyrecursor-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='tyepaloon']:hover{
+    background-image: url('../../assest/TyePaloon-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='ubuntu']:hover{
+    background-image: url('../../assest/Ubuntu-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='jetbrainsmono']:hover{
+    background-image: url('../../assest/JetBrainsMono-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='adidogboxdemo']:hover{
+    background-image: url('../../assest/Adidog-Box-Demo-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='amestonsans']:hover{
+    background-image: url('../../assest/Amestonsans-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bellagiumdemo']:hover{
+    background-image: url('../../assest/BellagiumDemo-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='frzzsans']:hover{
+    background-image: url('../../assest/FrzzSans-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='gamesansserif7']:hover{
+    background-image: url('../../assest/GameSansSerif7-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='groocksansserifpersonaluse']:hover{
+    background-image: url('../../assest/GroockSansSerifP-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='groupe']:hover{
+    background-image: url('../../assest/Groupe-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='homerock']:hover{
+    background-image: url('../../assest/Homerock-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='hysteriarollers']:hover{
+    background-image: url('../../assest/HysteriaRollers-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='kansasretro']:hover{
+    background-image: url('../../assest/KansasRetro-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lexa']:hover{
+    background-image: url('../../assest/Lexa.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='marestyadem']:hover{
+    background-image: url('../../assest/MarestyaDem.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='marinford']:hover{
+    background-image: url('../../assest/Marinford.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='overbrushing']:hover{
+    background-image: url('../../assest/oerbrushing.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='pilesnow']:hover{
+    background-image: url('../../assest/Pilesnow.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='prohuman']:hover{
+    background-image: url('../../assest/Prohuman.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='roundedsansserif7']:hover{
+    background-image: url('../../assest/RoundedSans.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='speedfezitalic']:hover{
+    background-image: url('../../assest/SpeedFezItalic.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='trackeoblique']:hover{
+    background-image: url('../../assest/TrackeOblique.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='advancedsansserif7']:hover{
+    background-image: url('../../assest/AdvancedSansSerif7-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='agree']:hover{
+    background-image: url('../../assest/Agree-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bonjourdejongsans']:hover{
+    background-image: url('../../assest/BonjourDeJongSans-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lorenza']:hover{
+    background-image: url('../../assest/Lorenza.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='rimini']:hover{
+    background-image: url('../../assest/Rimini.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='tackerlen']:hover{
+    background-image: url('../../assest/Tackerlen.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='thronefree']:hover{
+    background-image: url('../../assest/Thronefree.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='zimetaboldpersonaluse']:hover{
+    background-image: url('../../assest/ZimetaBold.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lazyjumps']:hover{
+    background-image: url('../../assest/LazyJumps-mg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='stylishdakota']:hover{
+    background-image: url('../../assest/StylishDakota.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='suntime']:hover{
+    background-image: url('../../assest/Suntime.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='groocksansserif']:hover{
+    background-image: url('../../assest/GroockSansSerifP-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='panjiserif']:hover{
+    background-image: url('../../assest/PanjiSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='romancefatalserif']:hover{
+    background-image: url('../../assest/RomanceFatalSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='ruinedserif']:hover{
+    background-image: url('../../assest/RuinedSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sangiserif']:hover{
+    background-image: url('../../assest/SangiSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='serifpixel7']:hover{
+    background-image: url('../../assest/SerifPixel7.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sweetandsassyserif']:hover{
+    background-image: url('../../assest/SweetAndSassySerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='volatileserif']:hover{
+    background-image: url('../../assest/VolatileSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='andoramodern']:hover{
+    background-image: url('../../assest/AndoraModern.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bilgosiaserif']:hover{
+    background-image: url('../../assest/BilgosiaSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bufferlydemoserif']:hover{
+    background-image: url('../../assest/BufferlyDemoSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='espoirseriffree']:hover{
+    background-image: url('../../assest/EspoirSerifFree.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='connectionserif']:hover{
+    background-image: url('../../assest/ConnectionSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='gofarserif']:hover{
+    background-image: url('../../assest/GofarSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='grandeuxserif']:hover{
+    background-image: url('../../assest/GrandeuxSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='ibmblockserif']:hover{
+    background-image: url('../../assest/IbmBlockSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='kavoserifp7wea']:hover{
+    background-image: url('../../assest/KansasRetro-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lejourserif']:hover{
+    background-image: url('../../assest/LeJourSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='moguineserif']:hover{
+    background-image: url('../../assest/MoguineSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='romanesqueserif']:hover{
+    background-image: url('../../assest/RomanceFatalSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='searchlightserif']:hover{
+    background-image: url('../../assest/SearchlightSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='treadingdemoserif']:hover{
+    background-image: url('../../assest/TreadingDemoSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='windstoneserif']:hover{
+    background-image: url('../../assest/WindstoneSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='aunofaserifdemo']:hover{
+    background-image: url('../../assest/AunofaSerifDemo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='blackpearlserif']:hover{
+    background-image: url('../../assest/Black-Casper-img_bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='equalityserif']:hover{
+    background-image: url('../../assest/EqualitySerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='fakeserif']:hover{
+    background-image: url('../../assest/FakeSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='rusillaserif']:hover{
+    background-image: url('../../assest/RusillaSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='agueroserif']:hover{
+    background-image: url('../../assest/AgueroSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='alcanteraserif']:hover{
+    background-image: url('../../assest/AlcanteraSerif.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='brandonselectionmonoline']:hover{
+    background-image: url('../../assest/BrandonSelection.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='honeymoonavenuescript']:hover{
+    background-image: url('../../assest/BrandonSelection.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='broadcasttitling']:hover{
+    background-image: url('../../assest/BroadcastTitling.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='freakpersonaluse']:hover{
+    background-image: url('../../assest/FreakPersonalUse.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='hornswog']:hover{
+    background-image: url('../../assest/Homerock-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='moosezp01']:hover{
+    background-image: url('../../assest/Monospace-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='ponsonbynf']:hover{
+    background-image: url('../../assest/Ponsonbynf.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='stereonormal']:hover{
+    background-image: url('../../assest/StereoNormal.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='stickmanroughfancy']:hover{
+    background-image: url('../../assest/Stickman.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='umarbasem56y']:hover{
+    background-image: url('../../assest/Umarbase.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='wideglide']:hover{
+    background-image: url('../../assest/WideGlide.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='acknowledgement']:hover{
+    background-image: url('../../assest/Acknowledgement-img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='baxtersslab']:hover{
+    background-image: url('../../assest/BaxtersSlab.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='bugurislab']:hover{
+    background-image: url('../../assest/BuguriSlab.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='clabpersonaluse']:hover{
+    background-image: url('../../assest/Clabpersonaluse.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='college']:hover{
+    background-image: url('../../assest/COLLEGE.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='comahawk']:hover{
+    background-image: url('../../assest/Comahawk.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='gorditas']:hover{
+    background-image: url('../../assest/Gorditas.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='housepaintslab']:hover{
+    background-image: url('../../assest/HousePaint.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='hvd_comic_serif_pro']:hover{
+    background-image: url('../../assest/HVD-Comic.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='lebronslabikiikocom']:hover{
+    background-image: url('../../assest/LebronSlab.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='manhandleslab']:hover{
+    background-image: url('../../assest/ManhandleSlab.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='monsterslx75']:hover{
+    background-image: url('../../assest/Monsters.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='rextro']:hover{
+    background-image: url('../../assest/Rextro.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='saharajourney']:hover{
+    background-image: url('../../assest/SaharaJourney.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sdeurostileelitedemo']:hover{
+    background-image: url('../../assest/SdEurostileElite.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='sebastienslabdemo']:hover{
+    background-image: url('../../assest/Sebastien.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='stdriedplums']:hover{
+    background-image: url('../../assest/StDriedPlums.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='stereonormal']:hover{
+    background-image: url('../../assest/StereoNormal.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='tekrotregularslant']:hover{
+    background-image: url('../../assest/TekrotRegular.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='tomasunny']:hover{
+    background-image: url('../../assest/TomaSunny.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='colatemta']:hover{
+    background-image: url('../../assest/Colatemta.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='largelydefineregula']:hover{
+    background-image: url('../../assest/Largelydefine.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='polandsdemo']:hover{
+    background-image: url('../../assest/PolandsDemo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+[id^='varna6m6y']:hover{
+    background-image: url('../../assest/Varna.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 0.3s ease-in-out;
+    .main-section-row{
+        color: white;
+        transition: color 0.3s ease-in-out;
+    }
+}
+
+
+
+
+
+
+@media screen and (min-width: 340px) and (max-width: 1030px) {
+    [id^='anydore']{
+        background-image: url('../../assest/Anydore-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='cookie']{
+        background-image: url('../../assest/cookies-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='creattion_demo']{
+        background-image: url('../../assest/creation-demo-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='cylburn']{
+        background-image: url('../../assest/Cylburn-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='dawningofanewday']{
+        background-image: url('../../assest/Dawning-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='euphoriascript']{
+        background-image: url('../../assest/Euphoria-Scriptt-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='flanella']{
+        background-image: url('../../assest/Flanella-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='good_vibes']{
+        background-image: url('../../assest/Good-view-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='italianno']{
+        background-image: url('../../assest/Italianno-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='little_days_alt']{
+        background-image: url('../../assest/Little-Days-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='pacifico']{
+        background-image: url('../../assest/Pacifico-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='qwigley']{
+        background-image: url('../../assest/Qwigley-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sail']{
+        background-image: url('../../assest/Sail-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    
+    [id^='shadowhand']{
+        background-image: url('../../assest/Shadow-Hand-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='skyscapers']{
+        background-image: url('../../assest/Skyscapers-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    
+    [id^='sophia']{
+        background-image: url('../../assest/Sophia-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='relieve']{
+        background-image: url('../../assest/Relieve-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='dancingscript']{
+        background-image: url('../../assest/dancing-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='alex_brush']{
+        background-image: url('../../assest/Alex-brush-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='allura']{
+        background-image: url('../../assest/Allura-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='crunchy']{
+        background-image: url('../../assest/Crunchy-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #grand_hotel{
+        background-image: url('../../assest/grand-hotel-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='im_fashionista']{
+        background-image: url('../../assest/I\'m-fashionista-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #kaushan_script{
+        background-image: url('../../assest/Kaushan-Script-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='leaguescriptnumberone']{
+        background-image: url('../../assest/League-Script-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #niconne{
+        background-image: url('../../assest/Niconne-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='shink']{
+        background-image: url('../../assest/Shink-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sofia']{
+        background-image: url('../../assest/Sofia-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='vegan_style']{
+        background-image: url('../../assest/Vegan-Style-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='windsong']{
+        background-image: url('../../assest/Wind-song-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='alpha_echo']{
+        background-image: url('../../assest/Alpha-Echo-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='barrio']{
+        background-image: url('../../assest/Barrio-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bearpaw']{
+        background-image: url('../../assest/BEARPAW-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    
+    #benchnine{
+        background-image: url('../../assest/BenchNine-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='blackcasper']{
+        background-image: url('../../assest/Black-Casper-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='blackout']{
+        background-image: url('../../assest/Blackout-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bpdots']{
+        background-image: url('../../assest/BP-dots-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='dubtronic']{
+        background-image: url('../../assest/Dubtronic-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='exotica']{
+        background-image: url('../../assest/Exotica-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='fff_tusj']{
+        background-image: url('../../assest/FFF-Tusj-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='nosifercaps']{
+        background-image: url('../../assest/Nosifer-Caps-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='outward']{
+        background-image: url('../../assest/outward-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='pilowlava']{
+        background-image: url('../../assest/Pilowlava-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='skyscapers']{
+        background-image: url('../../assest/Skyscapers-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #tightrope{
+        background-image: url('../../assest/Tightrope-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='typefesse']{
+        background-image: url('../../assest/Typefesse-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='yatraone']{
+        background-image: url('../../assest/Typefesse-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='20db']{
+        background-image: url('../../assest/20db-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #archivo_black{
+        background-image: url('../../assest/Archivo-Black-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    
+    #acme{
+        background-image: url('../../assest/Acme-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #baloo{
+        background-image: url('../../assest/Baloo-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bebas']{
+        background-image: url('../../assest/20db-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='indigo']{
+        background-image: url('../../assest/Indigo-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lato']{
+        background-image: url('../../assest/Indigo-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='montserratalternates']{
+        background-image: url('../../assest/Montserrat-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='raleway']{
+        background-image: url('../../assest/Raleway-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #subjectivity{
+        background-image: url('../../assest/Subjectivity-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    #playfairisplay{
+        background-image: url('../../assest/PlayfairDisplay-mg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='cpmono']{
+        background-image: url('../../assest/CPMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='fantasquesansmono']{
+        background-image: url('../../assest/fantasque-sans-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='majormonodisplay']{
+        background-image: url('../../assest/MajorMonoDisplay-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='saxmono']{
+        background-image: url('../../assest/saxmono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='telegrama']{
+        background-image: url('../../assest/telegrama-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='vt323']{
+        background-image: url('../../assest/VT323-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='anonymousprominus']{
+        background-image: url('../../assest/Anonymous_Pro-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bpmono']{
+        background-image: url('../../assest/Bpmono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='cousine']{
+        background-image: url('../../assest/Cousinei-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='cutivemono']{
+        background-image: url('../../assest/CutiveMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='dejavusans']{
+        background-image: url('../../assest/DejavuSans-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='droidsansmono']{
+        background-image: url('../../assest/DroidSansMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='firamono']{
+        background-image: url('../../assest/FiraMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='freemonospace']{
+        background-image: url('../../assest/Free\ Monospace-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='freemonobold']{
+        background-image: url('../../assest/FreeMonoBold-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='inconsolata']{
+        background-image: url('../../assest/Inconsolata-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lekton']{
+        background-image: url('../../assest/Lekton-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='liberationmono']{
+        background-image: url('../../assest/LiberationMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='monospacetypewriter']{
+        background-image: url('../../assest/Monospace-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='notcouriersans']{
+        background-image: url('../../assest/NotCourierSans-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='notomono']{
+        background-image: url('../../assest/NotoMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='oxygenmono']{
+        background-image: url('../../assest/OxygenMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='poemonospace']{
+        background-image: url('../../assest/PoeMonospace-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sourcecodepro']{
+        background-image: url('../../assest/SourceCodePro-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='spacemono']{
+        background-image: url('../../assest/SpaceMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='ptmono']{
+        background-image: url('../../assest/PTMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='texgyrecursor']{
+        background-image: url('../../assest/Texgyrecursor-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='tyepaloon']{
+        background-image: url('../../assest/TyePaloon-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='ubuntu']{
+        background-image: url('../../assest/Ubuntu-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='jetbrainsmono']{
+        background-image: url('../../assest/JetBrainsMono-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='adidogboxdemo']{
+        background-image: url('../../assest/Adidog-Box-Demo-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='amestonsans']{
+        background-image: url('../../assest/Amestonsans-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bellagiumdemo']{
+        background-image: url('../../assest/BellagiumDemo-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='frzzsans']{
+        background-image: url('../../assest/FrzzSans-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='gamesansserif7']{
+        background-image: url('../../assest/GameSansSerif7-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='groocksansserifpersonaluse']{
+        background-image: url('../../assest/GroockSansSerifP-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='groupe']{
+        background-image: url('../../assest/Groupe-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='homerock']{
+        background-image: url('../../assest/Homerock-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='hysteriarollers']{
+        background-image: url('../../assest/HysteriaRollers-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='kansasretro']{
+        background-image: url('../../assest/KansasRetro-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lexa']{
+        background-image: url('../../assest/Lexa.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='marestyadem']{
+        background-image: url('../../assest/MarestyaDem.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='marinford']{
+        background-image: url('../../assest/Marinford.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='overbrushing']{
+        background-image: url('../../assest/oerbrushing.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='pilesnow']{
+        background-image: url('../../assest/Pilesnow.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='prohuman']{
+        background-image: url('../../assest/Prohuman.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='roundedsansserif7']{
+        background-image: url('../../assest/RoundedSans.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='speedfezitalic']{
+        background-image: url('../../assest/SpeedFezItalic.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='trackeoblique']{
+        background-image: url('../../assest/TrackeOblique.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='advancedsansserif7']{
+        background-image: url('../../assest/AdvancedSansSerif7-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='agree']{
+        background-image: url('../../assest/Agree-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bonjourdejongsans']{
+        background-image: url('../../assest/BonjourDeJongSans-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lorenza']{
+        background-image: url('../../assest/Lorenza.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='rimini']{
+        background-image: url('../../assest/Rimini.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='tackerlen']{
+        background-image: url('../../assest/Tackerlen.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='thronefree']{
+        background-image: url('../../assest/Thronefree.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='zimetaboldpersonaluse']{
+        background-image: url('../../assest/ZimetaBold.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lazyjumps']{
+        background-image: url('../../assest/LazyJumps-mg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='stylishdakota']{
+        background-image: url('../../assest/StylishDakota.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='suntime']{
+        background-image: url('../../assest/Suntime.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='groocksansserif']{
+        background-image: url('../../assest/GroockSansSerifP-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='connectionserif']{
+        background-image: url('../../assest/ConnectionSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='panjiserif']{
+        background-image: url('../../assest/PanjiSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='romancefatalserif']{
+        background-image: url('../../assest/RomanceFatalSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='ruinedserif']{
+        background-image: url('../../assest/RuinedSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sangiserif']{
+        background-image: url('../../assest/SangiSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='serifpixel7']{
+        background-image: url('../../assest/SerifPixel7.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sweetandsassyserif']{
+        background-image: url('../../assest/SweetAndSassySerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='volatileserif']{
+        background-image: url('../../assest/VolatileSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='andoramodern']{
+        background-image: url('../../assest/AndoraModern.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bilgosiaserif']{
+        background-image: url('../../assest/BilgosiaSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bufferlydemoserif']{
+        background-image: url('../../assest/BufferlyDemoSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='espoirseriffree']{
+        background-image: url('../../assest/EspoirSerifFree.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='gofarserif']{
+        background-image: url('../../assest/GofarSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='grandeuxserif']{
+        background-image: url('../../assest/GrandeuxSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='ibmblockserif']{
+        background-image: url('../../assest/IbmBlockSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='kavoserifp7wea']{
+        background-image: url('../../assest/KansasRetro-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lejourserif']{
+        background-image: url('../../assest/LeJourSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='moguineserif']{
+        background-image: url('../../assest/MoguineSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='romanesqueserif']{
+        background-image: url('../../assest/RomanceFatalSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='searchlightserif']{
+        background-image: url('../../assest/SearchlightSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='treadingdemoserif']{
+        background-image: url('../../assest/TreadingDemoSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='windstoneserif']{
+        background-image: url('../../assest/WindstoneSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='aunofaserifdemo']{
+        background-image: url('../../assest/AunofaSerifDemo.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='blackpearlserif']{
+        background-image: url('../../assest/Black-Casper-img_bg.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='equalityserif']{
+        background-image: url('../../assest/EqualitySerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='fakeserif']{
+        background-image: url('../../assest/FakeSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='rusillaserif']{
+        background-image: url('../../assest/RusillaSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='agueroserif']{
+        background-image: url('../../assest/AgueroSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='alcanteraserif']{
+        background-image: url('../../assest/AlcanteraSerif.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='brandonselectionmonoline']{
+        background-image: url('../../assest/BrandonSelection.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='honeymoonavenuescript']{
+        background-image: url('../../assest/BrandonSelection.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='broadcasttitling']{
+        background-image: url('../../assest/BroadcastTitling.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='freakpersonaluse']{
+        background-image: url('../../assest/FreakPersonalUse.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='hornswog']{
+        background-image: url('../../assest/Homerock-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='moosezp01']{
+        background-image: url('../../assest/Monospace-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='ponsonbynf']{
+        background-image: url('../../assest/Ponsonbynf.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='stereonormal']{
+        background-image: url('../../assest/StereoNormal.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='stickmanroughfancy']{
+        background-image: url('../../assest/Stickman.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='umarbasem56y']{
+        background-image: url('../../assest/Umarbase.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='wideglide']{
+        background-image: url('../../assest/WideGlide.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='acknowledgement']{
+        background-image: url('../../assest/Acknowledgement-img.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='baxtersslab']{
+        background-image: url('../../assest/BaxtersSlab.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='bugurislab']{
+        background-image: url('../../assest/BuguriSlab.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='clabpersonaluse']{
+        background-image: url('../../assest/Clabpersonaluse.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='college']{
+        background-image: url('../../assest/COLLEGE.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='comahawk']{
+        background-image: url('../../assest/Comahawk.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='gorditas']{
+        background-image: url('../../assest/Gorditas.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='housepaintslab']{
+        background-image: url('../../assest/HousePaint.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='hvd_comic_serif_pro']{
+        background-image: url('../../assest/HVD-Comic.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='lebronslabikiikocom']{
+        background-image: url('../../assest/LebronSlab.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='manhandleslab']{
+        background-image: url('../../assest/ManhandleSlab.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='monsterslx75']{
+        background-image: url('../../assest/Monsters.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='rextro']{
+        background-image: url('../../assest/Rextro.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='saharajourney']{
+        background-image: url('../../assest/SaharaJourney.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sdeurostileelitedemo']{
+        background-image: url('../../assest/SdEurostileElite.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='sebastienslabdemo']{
+        background-image: url('../../assest/Sebastien.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='stdriedplums']{
+        background-image: url('../../assest/StDriedPlums.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='stereonormal']{
+        background-image: url('../../assest/StereoNormal.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='tekrotregularslant']{
+        background-image: url('../../assest/TekrotRegular.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='tomasunny']{
+        background-image: url('../../assest/TomaSunny.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='colatemta']{
+        background-image: url('../../assest/Colatemta.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='largelydefineregula']{
+        background-image: url('../../assest/Largelydefine.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='polandsdemo']{
+        background-image: url('../../assest/PolandsDemo.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+    [id^='varna6m6y']{
+        background-image: url('../../assest/Varna.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        transition: background-image 0.3s ease-in-out;
+        .main-section-row{
+            color: white;
+            transition: color 0.3s ease-in-out;
+        }
+    }
+        
+}
+
+
+
+
+

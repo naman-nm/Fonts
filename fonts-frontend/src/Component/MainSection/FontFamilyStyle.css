@@ -1,0 +1,1474 @@
+/* Define a custom font using @font-face */
+@font-face {
+    font-family: anydore ;
+    src: url(../../all_fonts/Cursive/Anydore.otf);
+  }
+  /* Apply the custom font to elements with a class starting with 'column-family-anydore' */
+  [ class^='column-family-anydore']{
+    color: var(--material-theme-white, #FFF); /* Use a variable for color with a fallback */
+    font-family: anydore; /* Apply the 'anydore' font-family */
+  }
+  @font-face {
+    font-family: cookie ;
+    src: url(../../all_fonts/Cursive/Cookie-Regular.ttf);
+  }
+  [ class^='column-family-cookie']{
+    color: var(--material-theme-white, #FFF);
+    font-family: cookie;
+  }
+  @font-face {
+    font-family: creattion_demo ;
+    src: url(../../all_fonts/Cursive/Creattion\ Demo.otf);
+  }
+  [ class^='column-family-creattion_demo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: creattion_demo;
+  }
+  @font-face {
+    font-family: cylburn ;
+    src: url(../../all_fonts/Cursive/Cylburn.otf);
+  }
+  [ class^='column-family-cylburn']{
+    color: var(--material-theme-white, #FFF);
+    font-family: creattion_demo;
+  }
+  @font-face {
+    font-family: dawningofanewday;
+    src: url(../../all_fonts/Cursive/DawningofaNewDay.ttf);
+  }
+  [ class^='column-family-dawningofanewday']{
+    color: var(--material-theme-white, #FFF);
+    font-family: dawningofanewday;
+  }
+  @font-face {
+    font-family: euphoriascript;
+    src: url(../../all_fonts/Cursive/EuphoriaScript-Regular.otf);
+  }
+  [ class^='column-family-euphoriascript']{
+    color: var(--material-theme-white, #FFF);
+    font-family: euphoriascript;
+  }
+  @font-face {
+    font-family: flanella;
+    src: url(../../all_fonts/Cursive/Flanella.ttf);
+  }
+  [ class^='column-family-flanella']{
+    color: var(--material-theme-white, #FFF);
+    font-family: flanella;
+  }
+  @font-face {
+    font-family: good_vibes;
+    src: url(../../all_fonts/Cursive/goodvibes.otf);
+  }
+  [ class^='column-family-good_vibes']{
+    color: var(--material-theme-white, #FFF);
+    font-family: good_vibes;
+  }
+  @font-face {
+    font-family: italianno;
+    src: url(../../all_fonts/Cursive/Italianno-Regular-OTF.otf);
+  }
+  [ class^='column-family-italianno']{
+    color: var(--material-theme-white, #FFF);
+    font-family: italianno;
+  }
+  @font-face {
+    font-family: little_days_alt;
+    src: url(../../all_fonts/Cursive/Little_days.ttf);
+  }
+  [ class^='column-family-little_days_alt']{
+    color: var(--material-theme-white, #FFF);
+    font-family: little_days_alt;
+  }
+  @font-face {
+    font-family: pacifico;
+    src: url(../../all_fonts/Cursive/Pacifico.ttf);
+  }
+  [ class^='column-family-pacifico']{
+    color: var(--material-theme-white, #FFF);
+    font-family: pacifico;
+  }
+  @font-face {
+    font-family: qwigley;
+    src: url(../../all_fonts/Cursive/Qwigley-Regular.ttf);
+  }
+  [ class^='column-family-qwigley']{
+    color: var(--material-theme-white, #FFF);
+    font-family: qwigley;
+  }
+  @font-face {
+    font-family: sail;
+    src: url(../../all_fonts/Cursive/Sail-Regular.otf);
+  }
+  [ class^='column-family-sail']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sail;
+  }
+
+@font-face {
+  font-family: shadow_hand ;
+  src: url(../../all_fonts/Cursive/ShadowHand.ttf);
+  }
+  [class^='column-family-shadowhand']{
+   color: var(--material-theme-white, #FFF);
+   font-family: shadow_hand;
+  }
+@font-face {
+    font-family: skyscapers ;
+    src: url(../../all_fonts/Cursive/Skyscapers.ttf);
+  }
+  [ class^='column-family-skyscapers']{
+    color: var(--material-theme-white, #FFF);
+    font-family: skyscapers;
+  }
+  @font-face {
+    font-family: relieve;
+    src: url(../../all_fonts/Cursive/Relieve.ttf);
+  }
+  [ class^='column-family-relieve']{
+    color: var(--material-theme-white, #FFF);
+    font-family: relieve;
+  }
+  @font-face {
+    font-family: sophia ;
+    src: url(../../all_fonts/Cursive/Sophia.otf);
+  }
+  [ class^='column-family-sophia']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sophia;
+  }
+  @font-face {
+    font-family: dancingscript ;
+    src: url(../../all_fonts/Cursive/DancingScript-Regular.otf);
+  }
+  [ class^='column-family-dancingscript']{
+    color: var(--material-theme-white, #FFF);
+    font-family: dancingscript;
+  }
+  @font-face {
+    font-family: alex_brush ;
+    src: url(../../all_fonts/Cursive/AlexBrush-Regular.ttf);
+  }
+  [ class^='column-family-alex_brush']{
+    color: var(--material-theme-white, #FFF);
+    font-family: alex_brush;
+  }
+  @font-face {
+    font-family: allura ;
+    src: url(../../all_fonts/Cursive/Allura-Regular.otf);
+  }
+  [ class^='column-family-allura']{
+    color: var(--material-theme-white, #FFF);
+    font-family: allura;
+  }
+  @font-face {
+    font-family: crunchy ;
+    src: url(../../all_fonts/Cursive/Crunchy_PERSONAL_USE_ONLY.ttf);
+  }
+  [ class^='column-family-crunchy']{
+    color: var(--material-theme-white, #FFF);
+    font-family: crunchy;
+  }
+  /* @font-face {
+    font-family: dancingscript;
+    src: url(../../all_fonts/Cursive/DancingScript-Regular.otf)
+  }
+  
+  .column-family-dancingscript {
+  color: var(--material-theme-white, #FFF);
+  font-family: dancingscript;
+  } */
+  @font-face {
+    font-family: grand_hotel;
+    src: url(../../all_fonts/Cursive/GrandHotel_Regular.otf)
+  }
+  
+  .column-family-grand_hotel {
+  color: var(--material-theme-white, #FFF);
+  font-family: grand_hotel;
+  }
+  @font-face {
+    font-family: kaushan_script;
+    src: url(../../all_fonts/Cursive/KaushanScript_Regular.ttf)
+  }
+  
+  .column-family-kaushan_script {
+  color: var(--material-theme-white, #FFF);
+  font-family: kaushan_script;
+  }
+  @font-face {
+    font-family: leaguescriptnumberone ;
+    src: url(../../all_fonts/Cursive/LeagueScriptNumberOne.otf);
+  }
+  [ class^='column-family-leaguescriptnumberone']{
+    color: var(--material-theme-white, #FFF);
+    font-family: leaguescriptnumberone;
+  }
+  @font-face {
+    font-family: niconne;
+    src: url(../../all_fonts/Cursive/Niconne-Regular.ttf)
+  }
+  
+  .column-family-niconne {
+  color: var(--material-theme-white, #FFF);
+  font-family: niconne;
+  }
+  @font-face {
+    font-family: shink ;
+    src: url(../../all_fonts/Cursive/Shink\ Font\ by\ Rifki\ \(7NTypes\).otf);
+  }
+  [ class^='column-family-shink']{
+    color: var(--material-theme-white, #FFF);
+    font-family: shink;
+  }
+  @font-face {
+    font-family: sofia ;
+    src: url(../../all_fonts/Cursive/SofiaRegular.otf);
+  }
+  [ class^='column-family-sofia']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sofia;
+  }
+  @font-face {
+    font-family: vegan_style ;
+    src: url(../../all_fonts/Cursive/VeganStylePersonalUse-5Y58.ttf);
+  }
+  [ class^='column-family-vegan_style']{
+    color: var(--material-theme-white, #FFF);
+    font-family: vegan_style;
+  }
+  @font-face {
+    font-family: windsong ;
+    src: url(../../all_fonts/Cursive/Windsong.ttf);
+  }
+  [ class^='column-family-windsong']{
+    color: var(--material-theme-white, #FFF);
+    font-family: windsong;
+  }
+  @font-face {
+    font-family: alpha_echo ;
+    src: url(../../all_fonts/Display/alpha_echo.ttf);
+  }
+  [ class^='column-family-alpha_echo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: alpha_echo;
+  }
+  @font-face {
+    font-family: barrio ;
+    src: url(../../all_fonts/Display/Barrio-Regular.otf);
+  }
+  [ class^='column-family-barrio']{
+    color: var(--material-theme-white, #FFF);
+    font-family: barrio;
+  }
+  @font-face {
+    font-family: bearpaw ;
+    src: url(../../all_fonts/Display/BEARPAW_.ttf);
+  }
+  [ class^='column-family-bearpaw']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bearpaw;
+  }
+  @font-face {
+    font-family: benchnine;
+    src: url(../../all_fonts/Display/BenchNine-Bold.otf)
+  }
+  
+  .column-family-benchnine {
+  color: var(--material-theme-white, #FFF);
+  font-family: benchnine;
+  }
+  @font-face {
+    font-family: blackcasper ;
+    src: url(../../all_fonts/Display/BlackCasper.ttf);
+  }
+  [ class^='column-family-blackcasper']{
+    color: var(--material-theme-white, #FFF);
+    font-family: blackcasper;
+  }
+  @font-face {
+    font-family: blackout ;
+    src: url(../../all_fonts/Display/Blackout-Midnight.ttf);
+  }
+  [ class^='column-family-blackout']{
+    color: var(--material-theme-white, #FFF);
+    font-family: blackout;
+  }
+  @font-face {
+    font-family: bpdots ;
+    src: url(../../all_fonts/Display/BPdotsBold.otf);
+  }
+  [ class^='column-family-bpdots']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bpdots;
+  }
+  @font-face {
+    font-family: dubtronic ;
+    src: url(../../all_fonts/Display/Dubtronic-Solid.otf);
+  }
+  [ class^='column-family-dubtronic']{
+    color: var(--material-theme-white, #FFF);
+    font-family: dubtronic;
+  }
+  @font-face {
+    font-family: exotica ;
+    src: url(../../all_fonts/Display/Exotica.ttf);
+  }
+  [ class^='column-family-exotica']{
+    color: var(--material-theme-white, #FFF);
+    font-family: exotica;
+  }
+  @font-face {
+    font-family: fff_tusj ;
+    src: url(../../all_fonts/Display/FFF_Tusj.ttf);
+  }
+  [ class^='column-family-fff_tusj']{
+    color: var(--material-theme-white, #FFF);
+    font-family: fff_tusj;
+  }
+  @font-face {
+    font-family: nosifercaps ;
+    src: url(../../all_fonts/Display/NosiferCaps-Regular.ttf);
+  }
+  [ class^='column-family-nosifercaps']{
+    color: var(--material-theme-white, #FFF);
+    font-family: nosifercaps;
+  }
+  @font-face {
+    font-family: outward ;
+    src: url(../../all_fonts/Display/outward-block.ttf);
+  }
+  [ class^='column-family-outward']{
+    color: var(--material-theme-white, #FFF);
+    font-family: outward;
+  }
+  @font-face {
+    font-family: pilowlava ;
+    src: url(../../all_fonts/Display/Pilowlava-Regular.otf);
+  }
+  [ class^='column-family-pilowlava']{
+    color: var(--material-theme-white, #FFF);
+    font-family: pilowlava;
+  }
+  @font-face {
+    font-family: tightrope ;
+    src: url(../../all_fonts/Display/Tightrope-Regular.ttf);
+  }
+  [ class^='column-family-tightrope']{
+    color: var(--material-theme-white, #FFF);
+    font-family: tightrope;
+  }
+  @font-face {
+    font-family: typefesse ;
+    src: url(../../all_fonts/Display/Typefesse_Pleine.otf);
+  }
+  [ class^='column-family-typefesse']{
+    color: var(--material-theme-white, #FFF);
+    font-family: typefesse;
+  }
+  @font-face {
+    font-family: yatraone ;
+    src: url(../../all_fonts/Display/YatraOne-Regular.ttf);
+  }
+  [ class^='column-family-yatraone']{
+    color: var(--material-theme-white, #FFF);
+    font-family: yatraone;
+  }
+  @font-face {
+    font-family: 20db ;
+    src: url(../../all_fonts/Display/20db.otf);
+  }
+  [ class^='column-family-20db']{
+    color: var(--material-theme-white, #FFF);
+    font-family: 20db;
+  }
+  @font-face {
+    font-family: archivo_black ;
+    src: url(../../all_fonts/Display/ArchivoBlack.otf);
+  }
+  [ class^='column-family-archivo_black']{
+    color: var(--material-theme-white, #FFF);
+    font-family: archivo_black;
+  }
+  @font-face {
+    font-family: acknowledgement ;
+    src: url(../../all_fonts/Display/Acknowledgement.otf);
+  }
+  [ class^='column-family-acknowledgement']{
+    color: var(--material-theme-white, #FFF);
+    font-family: acknowledgement;
+  }
+  @font-face {
+    font-family: acme ;
+    src: url(../../all_fonts/Display/Acme-Regular.ttf);
+  }
+  [ class^='column-family-acme']{
+    color: var(--material-theme-white, #FFF);
+    font-family: acme;
+  }
+  @font-face {
+    font-family: baloo ;
+    src: url(../../all_fonts/Display/Baloo-Regular.ttf);
+  }
+  [ class^='column-family-baloo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: baloo;
+  }
+  @font-face {
+    font-family: bebas ;
+    src: url(../../all_fonts/Display/Bebas-Regular.ttf);
+  }
+  [ class^='column-family-bebas']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bebas;
+  }
+  @font-face {
+    font-family: indigo ;
+    src: url(../../all_fonts/Display/Indigo\ Regular.otf);
+  }
+  [ class^='column-family-indigo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: indigo;
+  }
+  @font-face {
+    font-family: lato ;
+    src: url(../../all_fonts/Display/Lato-Bold.ttf);
+  }
+  [ class^='column-family-lato']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lato;
+  }
+  @font-face {
+    font-family: montserratalternates ;
+    src: url(../../all_fonts/Display/MontserratAlternates-Bold.otf);
+  }
+  [ class^='column-family-montserratalternates']{
+    color: var(--material-theme-white, #FFF);
+    font-family: montserratalternates;
+  }
+  @font-face {
+    font-family: raleway ;
+    src: url(../../all_fonts/Display/Raleway-Bold.ttf);
+  }
+  [ class^='column-family-raleway']{
+    color: var(--material-theme-white, #FFF);
+    font-family: raleway;
+  }
+  @font-face {
+    font-family: subjectivity ;
+    src: url(../../all_fonts/Display/Subjectivity-Bold.otf);
+  }
+  [ class^='column-family-subjectivity']{
+    color: var(--material-theme-white, #FFF);
+    font-family: subjectivity;
+  }
+  @font-face {
+    font-family: playfairisplay ;
+    src: url(../../all_fonts/Display/PlayfairDisplay-Bold.otf);
+  }
+  [ class^='column-family-playfairisplay']{
+    color: var(--material-theme-white, #FFF);
+    font-family: playfairisplay;
+  }
+  @font-face {
+    font-family: cpmono ;
+    src: url(../../all_fonts/Monospace/CPMono_v07\ Bold.otf);
+  }
+  [ class^='column-family-cpmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: cpmono;
+  }
+  @font-face {
+    font-family: fantasquesansmono ;
+    src: url(../../all_fonts/Monospace/fantasquesansmono-bold.otf);
+  }
+  [ class^='column-family-fantasquesansmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: fantasquesansmono;
+  }
+  @font-face {
+    font-family: majormonodisplay ;
+    src: url(../../all_fonts/Monospace/MajorMonoDisplay-Regular.ttf);
+  }
+  [ class^='column-family-majormonodisplay']{
+    color: var(--material-theme-white, #FFF);
+    font-family: majormonodisplay;
+  }
+  @font-face {
+    font-family: saxmono ;
+    src: url(../../all_fonts/Monospace/saxmono.ttf);
+  }
+  [ class^='column-family-saxmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: saxmono;
+  }
+  @font-face {
+    font-family: telegrama ;
+    src: url(../../all_fonts/Monospace/telegrama_raw.ttf);
+  }
+  [ class^='column-family-telegrama']{
+    color: var(--material-theme-white, #FFF);
+    font-family: telegrama;
+  }
+  @font-face {
+    font-family: vt323 ;
+    src: url(../../all_fonts/Monospace/VT323-Regular.ttf);
+  }
+  [ class^='column-family-vt323']{
+    color: var(--material-theme-white, #FFF);
+    font-family: vt323;
+  }
+  @font-face {
+    font-family: anonymousprominus ;
+    src: url(../../all_fonts/Monospace/Anonymous\ Pro\ Minus.ttf);
+  }
+  [ class^='column-family-anonymousprominus']{
+    color: var(--material-theme-white, #FFF);
+    font-family: anonymousprominus;
+  }
+  @font-face {
+    font-family: bpmono ;
+    src: url(../../all_fonts/Monospace/Bpmono-9Kwj.ttf);
+  }
+  [ class^='column-family-bpmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bpmono;
+  }
+  @font-face {
+    font-family: cousine ;
+    src: url(../../all_fonts/Monospace/Cousine-Bold.ttf);
+  }
+  [ class^='column-family-cousine']{
+    color: var(--material-theme-white, #FFF);
+    font-family: cousine;
+  }
+  @font-face {
+    font-family: cutivemono ;
+    src: url(../../all_fonts/Monospace/CutiveMono-wPDx.ttf);
+  }
+  [ class^='column-family-cutivemono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: cutivemono;
+  }
+  @font-face {
+    font-family: dejavusans ;
+    src: url(../../all_fonts/Monospace/DejavuSansBoldOblique-23a3.ttf);
+  }
+  [ class^='column-family-dejavusans']{
+    color: var(--material-theme-white, #FFF);
+    font-family: dejavusans;
+  }
+  @font-face {
+    font-family: droidsansmono ;
+    src: url(../../all_fonts/Monospace/DroidSansMono.ttf);
+  }
+  [ class^='column-family-droidsansmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: droidsansmono;
+  }
+  @font-face {
+    font-family: firamono ;
+    src: url(../../all_fonts/Monospace/FiraMono-Bold.ttf);
+  }
+  [ class^='column-family-firamono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: firamono;
+  }
+  @font-face {
+    font-family: freemonospace ;
+    src: url(../../all_fonts/Monospace/FreeMonospacedBold-9mOy.otf);
+  }
+  [ class^='column-family-freemonospace']{
+    color: var(--material-theme-white, #FFF);
+    font-family: freemonospace;
+  }
+  @font-face {
+    font-family: freemonobold ;
+    src: url(../../all_fonts/Monospace/FreeMonoBold.ttf);
+  }
+  [ class^='column-family-freemonobold']{
+    color: var(--material-theme-white, #FFF);
+    font-family: freemonobold;
+  }
+  @font-face {
+    font-family: inconsolata ;
+    src: url(../../all_fonts/Monospace/Inconsolata.otf);
+  }
+  [ class^='column-family-inconsolata']{
+    color: var(--material-theme-white, #FFF);
+    font-family: inconsolata;
+  }
+  @font-face {
+    font-family: lekton ;
+    src: url(../../all_fonts/Monospace/Lekton-Bold.ttf);
+  }
+  [ class^='column-family-lekton']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lekton;
+  }
+  @font-face {
+    font-family: liberationmono ;
+    src: url(../../all_fonts/Monospace/LiberationMono-Bold.ttf);
+  }
+  [ class^='column-family-liberationmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: liberationmono;
+  }
+  @font-face {
+    font-family: monospacetypewriter ;
+    src: url(../../all_fonts/Monospace/MonospaceTypewriter.ttf);
+  }
+  [ class^='column-family-monospacetypewriter']{
+    color: var(--material-theme-white, #FFF);
+    font-family: monospacetypewriter;
+  }
+  @font-face {
+    font-family: notcouriersans ;
+    src: url(../../all_fonts/Monospace/NotCourierSans-Bold.otf);
+  }
+  [ class^='column-family-notcouriersans']{
+    color: var(--material-theme-white, #FFF);
+    font-family: notcouriersans;
+  }
+  @font-face {
+    font-family: notomono ;
+    src: url(../../all_fonts/Monospace/NotoMono-Regular.ttf);
+  }
+  [ class^='column-family-notomono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: notomono;
+  }
+  @font-face {
+    font-family: oxygenmono ;
+    src: url(../../all_fonts/Monospace/OxygenMono-Regular.otf);
+  }
+  [ class^='column-family-oxygenmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: oxygenmono;
+  }
+  @font-face {
+    font-family: poemonospace ;
+    src: url(../../all_fonts/Monospace/PoeMonospace-dJJ6.ttf);
+  }
+  [ class^='column-family-poemonospace']{
+    color: var(--material-theme-white, #FFF);
+    font-family: poemonospace;
+  }
+  @font-face {
+    font-family: ptmono ;
+    src: url(../../all_fonts/Monospace/PTMono-Regular.ttf);
+  }
+  [ class^='column-family-ptmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: ptmono;
+  }
+  @font-face {
+    font-family: sourcecodepro ;
+    src: url(../../all_fonts/Monospace/SourceCodePro-Bold.otf);
+  }
+  [ class^='column-family-sourcecodepro']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sourcecodepro;
+  }
+  @font-face {
+    font-family: texgyrecursor ;
+    src: url(../../all_fonts/Monospace/TexgyrecursorBolditalic-JEDx.otf);
+  }
+  [ class^='column-family-texgyrecursor']{
+    color: var(--material-theme-white, #FFF);
+    font-family: texgyrecursor;
+  }
+  @font-face {
+    font-family: tyepaloon ;
+    src: url(../../all_fonts/Monospace/TyePaloon-m12m.ttf);
+  }
+  [ class^='column-family-tyepaloon']{
+    color: var(--material-theme-white, #FFF);
+    font-family: tyepaloon;
+  }
+  @font-face {
+    font-family: ubuntu ;
+    src: url(../../all_fonts/Monospace/Ubuntu-B.ttf);
+  }
+  [ class^='column-family-ubuntu']{
+    color: var(--material-theme-white, #FFF);
+    font-family: ubuntu;
+  }
+  @font-face {
+    font-family: jetbrainsmono ;
+    src: url(../../all_fonts/Monospace/JetBrainsMono-Bold.ttf);
+  }
+  [ class^='column-family-jetbrainsmono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: jetbrainsmono;
+  }
+  @font-face {
+    font-family: spacemono ;
+    src: url(../../all_fonts/Monospace/SpaceMono-Bold.ttf);
+  }
+  [ class^='column-family-spacemono']{
+    color: var(--material-theme-white, #FFF);
+    font-family: spacemono;
+  }
+  @font-face {
+    font-family: adidogboxdemo ;
+    src: url(../../all_fonts/SansSerif/AdidogBoxDemo-MVLRB.ttf);
+  }
+  [ class^='column-family-adidogboxdemo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: adidogboxdemo;
+  }
+  @font-face {
+    font-family: amestonsans ;
+    src: url(../../all_fonts/SansSerif/Amestonoutline-2ORdo.ttf);
+  }
+  [ class^='column-family-amestonsans']{
+    color: var(--material-theme-white, #FFF);
+    font-family: amestonsans;
+  }
+  @font-face {
+    font-family: bellagiumdemo ;
+    src: url(../../all_fonts/SansSerif/BellagiumDemo-51rjx.otf);
+  }
+  [ class^='column-family-bellagiumdemo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bellagiumdemo;
+  }
+  @font-face {
+    font-family: frzzsans ;
+    src: url(../../all_fonts/SansSerif/FrzzSans-v7M4.ttf);
+  }
+  [ class^='column-family-frzzsans']{
+    color: var(--material-theme-white, #FFF);
+    font-family: frzzsans;
+  }
+  @font-face {
+    font-family: gamesansserif7 ;
+    src: url(../../all_fonts/SansSerif/GameSansSerif7-oPGx.ttf);
+  }
+  [ class^='column-family-gamesansserif7']{
+    color: var(--material-theme-white, #FFF);
+    font-family: gamesansserif7;
+  }
+  @font-face {
+    font-family: groocksansserifpersonaluse ;
+    src: url(../../all_fonts/SansSerif/GroockSansSerifPersonalUse-EaRBl.ttf);
+  }
+  [ class^='column-family-groocksansserifpersonaluse']{
+    color: var(--material-theme-white, #FFF);
+    font-family: groocksansserifpersonaluse;
+  }
+  @font-face {
+    font-family: groupe ;
+    src: url(../../all_fonts/SansSerif/GroupeMedium-8MXgn.otf);
+  }
+  [ class^='column-family-groupe']{
+    color: var(--material-theme-white, #FFF);
+    font-family: groupe;
+  }
+  @font-face {
+    font-family: homerock ;
+    src: url(../../all_fonts/SansSerif/Homerock-0W7y4.otf);
+  }
+  [ class^='column-family-homerock']{
+    color: var(--material-theme-white, #FFF);
+    font-family: homerock;
+  }
+  @font-face {
+    font-family: hysteriarollers ;
+    src: url(../../all_fonts/SansSerif/HysteriaRollersPersonalUseSansSerif-JRB4x.otf);
+  }
+  [ class^='column-family-hysteriarollers']{
+    color: var(--material-theme-white, #FFF);
+    font-family: hysteriarollers;
+  }
+  @font-face {
+    font-family: kansasretro ;
+    src: url(../../all_fonts/SansSerif/KansasRetro-GOydA.ttf);
+  }
+  [ class^='column-family-kansasretro']{
+    color: var(--material-theme-white, #FFF);
+    font-family: kansasretro;
+  }
+  @font-face {
+    font-family: lexa ;
+    src: url(../../all_fonts/SansSerif/Lexa-jEdgy.ttf);
+  }
+  [ class^='column-family-lexa']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lexa;
+  }
+  @font-face {
+    font-family: marestyadem ;
+    src: url(../../all_fonts/SansSerif/MarestyaDemo-owpEo.otf);
+  }
+  [ class^='column-family-marestyadem']{
+    color: var(--material-theme-white, #FFF);
+    font-family: marestyadem;
+  }
+  @font-face {
+    font-family: marinford ;
+    src: url(../../all_fonts/SansSerif/Marinford-9Ypn2.ttf);
+  }
+  [ class^='column-family-marinford']{
+    color: var(--material-theme-white, #FFF);
+    font-family: marinford;
+  }
+  @font-face {
+    font-family: overbrushing ;
+    src: url(../../all_fonts/SansSerif/Overbrushing-1GJwZ.otf);
+  }
+  [ class^='column-family-overbrushing']{
+    color: var(--material-theme-white, #FFF);
+    font-family: overbrushing;
+  }
+  @font-face {
+    font-family: pilesnow ;
+    src: url(../../all_fonts/SansSerif/PilesnowRegular-7B5aD.ttf);
+  }
+  [ class^='column-family-pilesnow']{
+    color: var(--material-theme-white, #FFF);
+    font-family: pilesnow;
+  }
+  @font-face {
+    font-family: prohuman ;
+    src: url(../../all_fonts/SansSerif/Prohuman-ywADV.ttf);
+  }
+  [ class^='column-family-prohuman']{
+    color: var(--material-theme-white, #FFF);
+    font-family: prohuman;
+  }
+  @font-face {
+    font-family: roundedsansserif7 ;
+    src: url(../../all_fonts/SansSerif/RoundedSansSerif7-ZzMJ.ttf);
+  }
+  [ class^='column-family-roundedsansserif7']{
+    color: var(--material-theme-white, #FFF);
+    font-family: roundedsansserif7;
+  }
+  @font-face {
+    font-family: speedfezitalic ;
+    src: url(../../all_fonts/SansSerif/SpeedFezItalic-MV5Mw.otf);
+  }
+  [ class^='column-family-speedfezitalic']{
+    color: var(--material-theme-white, #FFF);
+    font-family: speedfezitalic;
+  }
+  @font-face {
+    font-family: trackeoblique ;
+    src: url(../../all_fonts/SansSerif/TrackeOblique-6YvJ1.ttf);
+  }
+  [ class^='column-family-trackeoblique']{
+    color: var(--material-theme-white, #FFF);
+    font-family: trackeoblique;
+  }
+  @font-face {
+    font-family: advancedsansserif7 ;
+    src: url(../../all_fonts/SansSerif/AdvancedSansSerif7-4G7K.ttf);
+  }
+  [ class^='column-family-advancedsansserif7']{
+    color: var(--material-theme-white, #FFF);
+    font-family: advancedsansserif7;
+  }
+  @font-face {
+    font-family: agree ;
+    src: url(../../all_fonts/SansSerif/AgreeRegular-8MYxz.otf);
+  }
+  [ class^='column-family-agree']{
+    color: var(--material-theme-white, #FFF);
+    font-family: agree;
+  }
+  @font-face {
+    font-family: bonjourdejongsans ;
+    src: url(../../all_fonts/SansSerif/BonjourDeJongSans-vmgED.ttf);
+  }
+  [ class^='column-family-bonjourdejongsans']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bonjourdejongsans;
+  }
+  @font-face {
+    font-family: lorenza ;
+    src: url(../../all_fonts/SansSerif/Lorenza-9Yovy.otf);
+  }
+  [ class^='column-family-lorenza']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lorenza;
+  }
+  @font-face {
+    font-family: rimini ;
+    src: url(../../all_fonts/SansSerif/Rimini-V6yy.otf);
+  }
+  [ class^='column-family-rimini']{
+    color: var(--material-theme-white, #FFF);
+    font-family: rimini;
+  }
+  @font-face {
+    font-family: tackerlen ;
+    src: url(../../all_fonts/SansSerif/Tackerlen-qZ985.otf);
+  }
+  [ class^='column-family-tackerlen']{
+    color: var(--material-theme-white, #FFF);
+    font-family: tackerlen;
+  }
+  @font-face {
+    font-family: thronefree ;
+    src: url(../../all_fonts/SansSerif/ThroneFree-DOLmm.ttf);
+  }
+  [ class^='column-family-thronefree']{
+    color: var(--material-theme-white, #FFF);
+    font-family: thronefree;
+  }
+  @font-face {
+    font-family: zimetaboldpersonaluse ;
+    src: url(../../all_fonts/SansSerif/ZimetaBlackPersonalUse-nRJVR.otf);
+  }
+  [ class^='column-family-zimetaboldpersonaluse']{
+    color: var(--material-theme-white, #FFF);
+    font-family: zimetaboldpersonaluse;
+  }
+  @font-face {
+    font-family: lazyjumps ;
+    src: url(../../all_fonts/SansSerif/LazyJumpsRegular-Eapm9.ttf);
+  }
+  [ class^='column-family-lazyjumps']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lazyjumps;
+  }
+  @font-face {
+    font-family: stylishdakota ;
+    src: url(../../all_fonts/SansSerif/StylishDakota-Eae2z.ttf);
+  }
+  [ class^='column-family-stylishdakota']{
+    color: var(--material-theme-white, #FFF);
+    font-family: stylishdakota;
+  }
+  @font-face {
+    font-family: suntime ;
+    src: url(../../all_fonts/SansSerif/Suntime-EayJl.ttf);
+  }
+  [ class^='column-family-suntime']{
+    color: var(--material-theme-white, #FFF);
+    font-family: suntime;
+  }
+  @font-face {
+    font-family: groocksansserif ;
+    src: url(../../all_fonts/Serif/GroockSansSerifPersonalUse-EaRBl.ttf);
+  }
+  [ class^='column-family-groocksansserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: groocksansserif;
+  }
+  @font-face {
+    font-family: panjiserif ;
+    src: url(../../all_fonts/Serif/PanjiSerif-MX6n.ttf);
+  }
+  [ class^='column-family-panjiserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: panjiserif;
+  }
+  @font-face {
+    font-family: romancefatalserif ;
+    src: url(../../all_fonts/Serif/RomanceFatalSerifStd-51PDz.ttf);
+  }
+  [ class^='column-family-romancefatalserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: romancefatalserif;
+  }
+  @font-face {
+    font-family: ruinedserif ;
+    src: url(../../all_fonts/Serif/RuinedSerifItalic-lOaD.otf);
+  }
+  [ class^='column-family-ruinedserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: ruinedserif;
+  }
+  @font-face {
+    font-family: sangiserif ;
+    src: url(../../all_fonts/Serif/SangiSerifRegular-1G9Xe.ttf);
+  }
+  [ class^='column-family-sangiserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sangiserif;
+  }
+  @font-face {
+    font-family: serifpixel7 ;
+    src: url(../../all_fonts/Serif/SerifPixel7-llXe.ttf);
+  }
+  [ class^='column-family-serifpixel7']{
+    color: var(--material-theme-white, #FFF);
+    font-family: serifpixel7;
+  }
+  @font-face {
+    font-family: sweetandsassyserif ;
+    src: url(../../all_fonts/Serif/SweetAndSassySerif-OKee.ttf);
+  }
+  [ class^='column-family-sweetandsassyserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sweetandsassyserif;
+  }
+  @font-face {
+    font-family: volatileserif ;
+    src: url(../../all_fonts/Serif/VolatileSerifPersonalUseRegular-3zpyM.otf);
+  }
+  [ class^='column-family-volatileserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: volatileserif;
+  }
+  @font-face {
+    font-family: andoramodern ;
+    src: url(../../all_fonts/Serif/AndoraModernSerif-lgrvw.otf);
+  }
+  [ class^='column-family-andoramodern']{
+    color: var(--material-theme-white, #FFF);
+    font-family: andoramodern;
+  }
+  @font-face {
+    font-family: bilgosiaserif ;
+    src: url(../../all_fonts/Serif/BilgosiaSerif-OVDq6.ttf);
+  }
+  [ class^='column-family-bilgosiaserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bilgosiaserif;
+  }
+  @font-face {
+    font-family: bufferlydemoserif ;
+    src: url(../../all_fonts/Serif/BufferlyDemoSerif-6Yx16.ttf);
+  }
+  [ class^='column-family-bufferlydemoserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bufferlydemoserif;
+  }
+  @font-face {
+    font-family: espoirseriffree ;
+    src: url(../../all_fonts/Serif/EspoirseriffreeItalic-d9xE6.otf);
+  }
+  [ class^='column-family-espoirseriffree']{
+    color: var(--material-theme-white, #FFF);
+    font-family: espoirseriffree;
+  }
+  @font-face {
+    font-family: gofarserif ;
+    src: url(../../all_fonts/Serif/GofarSerifPersonalUseRegular-qZMzr.otf);
+  }
+  [ class^='column-family-gofarserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: gofarserif;
+  }
+  @font-face {
+    font-family: grandeuxserif ;
+    src: url(../../all_fonts/Serif/GrandeuxSerifPersonalUseRegular-lg3je.otf);
+  }
+  [ class^='column-family-grandeuxserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: grandeuxserif;
+  }
+  @font-face {
+    font-family: ibmblockserif ;
+    src: url(../../all_fonts/Serif/IbmBlockSerif-RLrl.ttf);
+  }
+  [ class^='column-family-ibmblockserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: ibmblockserif;
+  }
+  @font-face {
+    font-family: kavoserifp7wea ;
+    src: url(../../all_fonts/Serif/KavoSerif-p7wea.otf);
+  }
+  [ class^='column-family-kavoserifp7wea']{
+    color: var(--material-theme-white, #FFF);
+    font-family: kavoserifp7wea;
+  }
+  @font-face {
+    font-family: lejourserif ;
+    src: url(../../all_fonts/Serif/LeJourSerif-OVZMo.otf);
+  }
+  [ class^='column-family-lejourserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lejourserif;
+  }
+  @font-face {
+    font-family: moguineserif ;
+    src: url(../../all_fonts/Serif/MoguineSerifPersonalUseItalic-1GvwB.otf);
+  }
+  [ class^='column-family-moguineserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: moguineserif;
+  }
+  @font-face {
+    font-family: romanesqueserif ;
+    src: url(../../all_fonts/Serif/RomanceFatalSerifStd-51PDz.ttf);
+  }
+  [ class^='column-family-romanesqueserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: romanesqueserif;
+  }
+  @font-face {
+    font-family: searchlightserif ;
+    src: url(../../all_fonts/Serif/SearchlightSerif-377G.otf);
+  }
+  [ class^='column-family-searchlightserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: searchlightserif;
+  }
+  @font-face {
+    font-family: treadingdemoserif ;
+    src: url(../../all_fonts/Serif/TreadingDemoSerif-MVlZP.ttf);
+  }
+  [ class^='column-family-treadingdemoserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: treadingdemoserif;
+  }
+  @font-face {
+    font-family: windstoneserif ;
+    src: url(../../all_fonts/Serif/WindstoneSerifPersonalUseRegular-vm8DL.otf);
+  }
+  [ class^='column-family-windstoneserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: windstoneserif;
+  }
+  @font-face {
+    font-family: aunofaserifdemo ;
+    src: url(../../all_fonts/Serif/AunofaSerifDemoRegular-vL1M.ttf);
+  }
+  [ class^='column-family-aunofaserifdemo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: aunofaserifdemo;
+  }
+  @font-face {
+    font-family: blackpearlserif ;
+    src: url(../../all_fonts/Serif/BlackpearlSerif-w1ElP.otf);
+  }
+  [ class^='column-family-blackpearlserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: blackpearlserif;
+  }
+  @font-face {
+    font-family: equalityserif ;
+    src: url(../../all_fonts/Serif/EqualitySerifPersonalUseRegular-4Bxn4.otf);
+  }
+  [ class^='column-family-equalityserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: equalityserif;
+  }
+  @font-face {
+    font-family: fakeserif ;
+    src: url(../../all_fonts/Serif/FakeSerif-K4dp.ttf);
+  }
+  [ class^='column-family-fakeserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: fakeserif;
+  }
+  @font-face {
+    font-family: rusillaserif ;
+    src: url(../../all_fonts/Serif/RusillaSerif-2OZpl.otf);
+  }
+  [ class^='column-family-rusillaserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: rusillaserif;
+  }
+  @font-face {
+    font-family: connectionserif ;
+    src: url(../../all_fonts/Serif/ConnectionSerif-d20X.otf);
+  }
+  [ class^='column-family-connectionserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: connectionserif;
+  }
+  @font-face {
+    font-family: agueroserif ;
+    src: url(../../all_fonts/Serif/ConnectionSerif-d20X.otf);
+  }
+  [ class^='column-family-agueroserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: agueroserif;
+  }
+  @font-face {
+    font-family: alcanteraserif ;
+    src: url(../../all_fonts/Serif/AlcanteraSerif-gx4jp.ttf);
+  }
+  [ class^='column-family-alcanteraserif']{
+    color: var(--material-theme-white, #FFF);
+    font-family: alcanteraserif;
+  }
+  @font-face {
+    font-family: brandonselectionmonoline ;
+    src: url(../../all_fonts/Serif/BrandonSelectionSerif-VGpAx.ttf);
+  }
+  [ class^='column-family-brandonselectionmonoline']{
+    color: var(--material-theme-white, #FFF);
+    font-family: brandonselectionmonoline;
+  }
+  @font-face {
+    font-family: honeymoonavenuescript ;
+    src: url(../../all_fonts/Serif/HoneymoonAvenueScript-Vl4l.ttf);
+  }
+  [ class^='column-family-honeymoonavenuescript']{
+    color: var(--material-theme-white, #FFF);
+    font-family: honeymoonavenuescript;
+  }
+  /* @font-face {
+    font-family: windsong;
+    src: url(../../all_fonts/Cursive/Windsong.ttf)
+  }
+  
+  .column-family-windsong {
+  color: var(--material-theme-white, #FFF);
+  font-family: windsong;
+  } */
+  @font-face {
+    font-family: im_fashionista ;
+    src: url(../../all_fonts/Cursive/Imfashionista_Demo.ttf);
+  }
+  [ class^='column-family-im_fashionista']{
+    color: var(--material-theme-white, #FFF);
+    font-family: im_fashionista;
+  }
+  @font-face {
+    font-family: broadcasttitling ;
+    src: url(../../all_fonts/Slab/BroadcastTitling-nRO0.ttf);
+  }
+  [ class^='column-family-broadcasttitling']{
+    color: var(--material-theme-white, #FFF);
+    font-family: broadcasttitling;
+  }
+  @font-face {
+    font-family: freakpersonaluse ;
+    src: url(../../all_fonts/Slab/FreakPersonalUse-axO0E.ttf);
+  }
+  [ class^='column-family-freakpersonaluse']{
+    color: var(--material-theme-white, #FFF);
+    font-family: freakpersonaluse;
+  }
+  @font-face {
+    font-family: hornswog ;
+    src: url(../../all_fonts/Slab/HORNSWOG.ttf);
+  }
+  [ class^='column-family-hornswog']{
+    color: var(--material-theme-white, #FFF);
+    font-family: hornswog;
+  }
+  @font-face {
+    font-family: moosezp01 ;
+    src: url(../../all_fonts/Slab/Moose-zp01.ttf);
+  }
+  [ class^='column-family-moosezp01']{
+    color: var(--material-theme-white, #FFF);
+    font-family: moosezp01;
+  }
+  @font-face {
+    font-family: ponsonbynf ;
+    src: url(../../all_fonts/Slab/Ponsonbynf-YAp4.ttf);
+  }
+  [ class^='column-family-ponsonbynf']{
+    color: var(--material-theme-white, #FFF);
+    font-family: ponsonbynf;
+  }
+  @font-face {
+    font-family: stereonormal ;
+    src: url(../../all_fonts/Slab/StereoNormal-zrDX.ttf);
+  }
+  [ class^='column-family-stereonormal']{
+    color: var(--material-theme-white, #FFF);
+    font-family: stereonormal;
+  }
+  @font-face {
+    font-family: stickmanroughfancy ;
+    src: url(../../all_fonts/Slab/StickmanCleanFancy-BWq1x.otf);
+  }
+  [ class^='column-family-stickmanroughfancy']{
+    color: var(--material-theme-white, #FFF);
+    font-family: stickmanroughfancy;
+  }
+  @font-face {
+    font-family: umarbasem56y ;
+    src: url(../../all_fonts/Slab/Umarbase-M56Y.ttf);
+  }
+  [ class^='column-family-umarbasem56y']{
+    color: var(--material-theme-white, #FFF);
+    font-family: umarbasem56y;
+  }
+  @font-face {
+    font-family: wideglide ;
+    src: url(../../all_fonts/Slab/WideGlide-8MOB.ttf);
+  }
+  [ class^='column-family-wideglide']{
+    color: var(--material-theme-white, #FFF);
+    font-family: wideglide;
+  }
+  @font-face {
+    font-family: baxtersslab ;
+    src: url(../../all_fonts/Slab/BaxtersSlabRegular-Jd4a.ttf);
+  }
+  [ class^='column-family-baxtersslab']{
+    color: var(--material-theme-white, #FFF);
+    font-family: baxtersslab;
+  }
+  @font-face {
+    font-family: bugurislab ;
+    src: url(../../all_fonts/Slab/BuguriSlab-Wy2mz.ttf);
+  }
+  [ class^='column-family-bugurislab']{
+    color: var(--material-theme-white, #FFF);
+    font-family: bugurislab;
+  }
+  @font-face {
+    font-family: clabpersonaluse ;
+    src: url(../../all_fonts/Slab/ClabpersonaluseBold-eZl9g.otf);
+  }
+  [ class^='column-family-clabpersonaluse']{
+    color: var(--material-theme-white, #FFF);
+    font-family: clabpersonaluse;
+  }
+  @font-face {
+    font-family: college ;
+    src: url(../../all_fonts/Slab/COLLEGE.ttf);
+  }
+  [ class^='column-family-college']{
+    color: var(--material-theme-white, #FFF);
+    font-family: college;
+  }
+  @font-face {
+    font-family: comahawk ;
+    src: url(../../all_fonts/Slab/Comahawk-WyGAG.ttf);
+  }
+  [ class^='column-family-comahawk']{
+    color: var(--material-theme-white, #FFF);
+    font-family: comahawk;
+  }
+  @font-face {
+    font-family: gorditas ;
+    src: url(../../all_fonts/Slab/Gorditas-Regular.ttf);
+  }
+  [ class^='column-family-gorditas']{
+    color: var(--material-theme-white, #FFF);
+    font-family: gorditas;
+  }
+  @font-face {
+    font-family: housepaintslab ;
+    src: url(../../all_fonts/Slab/HousePaintSlabRegularDemo-8AzA.ttf);
+  }
+  [ class^='column-family-housepaintslab']{
+    color: var(--material-theme-white, #FFF);
+    font-family: housepaintslab;
+  }
+  @font-face {
+    font-family: hvd_comic_serif_pro ;
+    src: url(../../all_fonts/Slab/HVD_Comic_Serif_Pro.otf);
+  }
+  [ class^='column-family-hvd_comic_serif_pro']{
+    color: var(--material-theme-white, #FFF);
+    font-family: hvd_comic_serif_pro;
+  }
+  @font-face {
+    font-family: lebronslabikiikocom ;
+    src: url(../../all_fonts/Slab/LebronSlabIkiikocom-X3vn2.otf);
+  }
+  [ class^='column-family-lebronslabikiikocom']{
+    color: var(--material-theme-white, #FFF);
+    font-family: lebronslabikiikocom;
+  }
+  @font-face {
+    font-family: manhandleslab ;
+    src: url(../../all_fonts/Slab/ManhandleSlab-2e9X.ttf);
+  }
+  [ class^='column-family-manhandleslab']{
+    color: var(--material-theme-white, #FFF);
+    font-family: manhandleslab;
+  }
+  @font-face {
+    font-family: monsterslx75 ;
+    src: url(../../all_fonts/Slab/Monsters-LX75.ttf);
+  }
+  [ class^='column-family-monsterslx75']{
+    color: var(--material-theme-white, #FFF);
+    font-family: monsterslx75;
+  }
+  @font-face {
+    font-family: rextro ;
+    src: url(../../all_fonts/Slab/Rextro-gxJvp.otf);
+  }
+  [ class^='column-family-rextro']{
+    color: var(--material-theme-white, #FFF);
+    font-family: rextro;
+  }
+  @font-face {
+    font-family: saharajourney ;
+    src: url(../../all_fonts/Slab/SaharaJourney-8MpMB.ttf);
+  }
+  [ class^='column-family-saharajourney']{
+    color: var(--material-theme-white, #FFF);
+    font-family: saharajourney;
+  }
+  @font-face {
+    font-family: sdeurostileelitedemo ;
+    src: url(../../all_fonts/Slab/SdEurostileEliteDemo-DVRx.ttf);
+  }
+  [ class^='column-family-sdeurostileelitedemo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sdeurostileelitedemo;
+  }
+  @font-face {
+    font-family: sebastienslabdemo ;
+    src: url(../../all_fonts/Slab/SebastienSlabRound-Ko3W.ttf);
+  }
+  [ class^='column-family-sebastienslabdemo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: sebastienslabdemo;
+  }
+  @font-face {
+    font-family: stdriedplums ;
+    src: url(../../all_fonts/Slab/StDriedPlumsDemoBlack-BW8l5.otf);
+  }
+  [ class^='column-family-stdriedplums']{
+    color: var(--material-theme-white, #FFF);
+    font-family: stdriedplums;
+  }
+  @font-face {
+    font-family: tekrotregularslant ;
+    src: url(../../all_fonts/Slab/TekrotRegularSlant-w1Do8.ttf);
+  }
+  [ class^='column-family-tekrotregularslant']{
+    color: var(--material-theme-white, #FFF);
+    font-family: tekrotregularslant;
+  }
+  @font-face {
+    font-family: tomasunny ;
+    src: url(../../all_fonts/Slab/TomaSunny-mLvVV.otf);
+  }
+  [ class^='column-family-tomasunny']{
+    color: var(--material-theme-white, #FFF);
+    font-family: tomasunny;
+  }
+  @font-face {
+    font-family: colatemta ;
+    src: url(../../all_fonts/Slab/Colatemta.ttf);
+  }
+  [ class^='column-family-colatemta']{
+    color: var(--material-theme-white, #FFF);
+    font-family: colatemta;
+  }
+  @font-face {
+    font-family: largelydefineregula ;
+    src: url(../../all_fonts/Slab/LargelyDefineRegular-ax1qK.ttf);
+  }
+  [ class^='column-family-largelydefineregula']{
+    color: var(--material-theme-white, #FFF);
+    font-family: largelydefineregula;
+  }
+  @font-face {
+    font-family: polandsdemo ;
+    src: url(../../all_fonts/Slab/PolandsDemo-jEya9.otf);
+  }
+  [ class^='column-family-polandsdemo']{
+    color: var(--material-theme-white, #FFF);
+    font-family: polandsdemo;
+  }
+  @font-face {
+    font-family: varna6m6y ;
+    src: url(../../all_fonts/Slab/Varna-6m6Y.otf);
+  }
+  [ class^='column-family-varna6m6y']{
+    color: var(--material-theme-white, #FFF);
+    font-family: varna6m6y;
+  }
+  

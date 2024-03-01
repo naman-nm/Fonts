@@ -1,0 +1,37 @@
+.pagination{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 0 60px 0;
+    font-size: 1rem;
+}
+
+.pagination .page-num{
+    padding: 2px 16px;
+    cursor: pointer;
+    font-weight: 400;
+    text-decoration: none;
+    --bs-bg-opacity: 1;
+    background-color: transparent!important;
+    color: #707070;
+}
+.pagination .break{
+    color: #fff;
+}
+.pagination .next [aria-label="Next page"]{
+    color: #fff;
+}
+.pagination .previous [aria-label="Previous page"]{
+    color: #fff;
+}
+.pagination .active{
+    color: #fff;
+}
+
+@media (max-width: 500px) {
+    .pagination .page-num{
+        padding: 1px 4px;
+        
+    }
+}

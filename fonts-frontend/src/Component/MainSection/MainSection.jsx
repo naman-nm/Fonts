@@ -67,28 +67,35 @@ export const Mainstyle = () => {
   // Handle category filter changes
   // Handle category filter changes
  const handleClickCategory = (e) => {
-   const { id, checked } = e.target;
+  const { id, checked } = e.target;
 
-   if (id === "AllType") {
-     // If "AllType" is clicked, toggle all other categories
-     setCategory(checked ? ["AllType"] : []);
-     setPersonality([]);
-   } else {
-     // Toggle the clicked category without affecting others
-     setCategory((prevCategories) => {
-       if (checked) {
-         // If any category other than "AllType" is clicked, remove "AllType" from categories
-         return prevCategories.filter(category => category !== "AllType").concat(id);
-       } else {
-         return prevCategories.filter((category) => category !== id);
-       }
-     });
-     // If "AllType" is already checked, uncheck it
-     if (category.includes("AllType")) {
-       setCategory([]);
-     }
-   }
- };
+  if (id === "AllType") {
+    // If "AllType" is clicked, select all categories if checked, otherwise deselect all
+    if (checked) {
+      setCategory(["AllType"]);
+      setPersonality([]);
+    } else {
+      setCategory([]);
+    }
+  } else {
+    // If any other category is clicked, toggle its selection
+    setCategory((prevCategories) => {
+      if (checked) {
+        // Add the category if checked
+        return prevCategories.includes("AllType") ? [id] : [...prevCategories, id];
+      } else {
+        // Remove the category if unchecked
+        return prevCategories.filter(category => category !== id);
+      }
+    });
+
+    // If "AllType" is checked and any other category is clicked, deselect "AllType"
+    if (category.includes("AllType")) {
+      setCategory(prevCategories => prevCategories.filter(category => category !== "AllType"));
+    }
+  }
+};
+
 
 // Handle personality filter changes
  const handleClickPersonality = (e) => {
